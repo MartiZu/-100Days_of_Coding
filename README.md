@@ -2,7 +2,23 @@
 
 I have taken this from my [Twitter](https://twitter.com/martina_zurli) account, to continue keeping myself motivated and accountable to write code every single day (with some rest days here and there).
 
+## Day 80
+@martina_zurli
+·
+56s
+Day 80 of #100DaysOfCode finally finished my little quiz for users, helping them learn and memorize difficult terms!😍 It was hard to figure out how to display the data and organize the logic to create something good!👩‍💻Now more work to refine an old project and more code wars 🙌
 
+## Day 79
+@martina_zurli
+·
+Dec 25
+Day 79 of #100DaysOfCode more testing, building and debugging the code tonight!🚀I find extremely relaxing getting lost in the code, trying to find answers to my questions👩‍💻Coding has become so satisfying, that I do find myself choosing my laptop over watching something on tv 🤣
+
+## Day 78
+@martina_zurli
+·
+Dec 24
+Day 78 of #100DaysOfCode more work for me today but only for a short time!🙌Working on my project, adding features, adding testing and creating what I would like the final product to look like! Merry Christmas everyone and happy coding because why not!😊Every small commit counts!
 
 ## Day 77
 @martina_zurli
